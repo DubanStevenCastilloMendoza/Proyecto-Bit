@@ -1,0 +1,16 @@
+.bg-red{
+    background-color: #800A0A;
+    
+}
+.bg-red a{
+    color: white;
+}
+.bg-dark-my{
+    background-color: #404040;
+}
+.profile-image img{
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
+
